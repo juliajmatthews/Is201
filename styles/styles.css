@@ -1,0 +1,29 @@
+h2{
+    text-align: center;
+    color: lightsalmon;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    border: 5px solid #ebd671;
+    margin: 2px;
+}
+
+#top{
+    color:rgb(246, 99, 41);
+    text-decoration: underline;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.excitedText{
+    color: #ebd671;
+    font-weight: bold;
+}
+
+body{
+    background-color: lightslategray;
+}
+
+li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
